@@ -13,8 +13,8 @@ to run the web app simply  use
 Install postman 
 https://www.postman.com/downloads/
 
-get baju list
-<img src='img/get_baju.png' alt='baju list'/>
+get jam tangan list
+<img src='img/get_jam_tangan.png' alt='jam_tangan list'/>
 
 get recommendations saw
 <img src='img/get_saw.png' alt='recommendations saw'/>
